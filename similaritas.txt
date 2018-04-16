@@ -1,0 +1,13 @@
+Daftar PDF : 
+0 ./files/UU_NO_4_2016-2.pdf
+1 ./files/UU-12-Tahun-2011.pdf
+2 ./files/UU_28_2014.PDF
+3 ./files/UU_40_2007.PDF
+
+
+Similaritas pdf ke 0 dan pdf ke 1 = 0
+Similaritas pdf ke 0 dan pdf ke 2 = 0.35007932310947
+Similaritas pdf ke 0 dan pdf ke 3 = 0.24496288441145
+Similaritas pdf ke 1 dan pdf ke 2 = 0
+Similaritas pdf ke 1 dan pdf ke 3 = 0
+Similaritas pdf ke 2 dan pdf ke 3 = 0.15884476534296
